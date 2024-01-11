@@ -1,2 +1,3 @@
 int edad
-int persona
+int Eurotruck
+
